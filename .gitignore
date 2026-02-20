@@ -1,0 +1,6 @@
+# tidak memedulikan file environtment dan sejenisnya
+.env
+.venv
+
+.ipynb_checkpoints
+__pycache__
