@@ -7,3 +7,5 @@ __pycache__
 AITF
 settings.json
 .gradio
+CV/CustomTrain/Dataset
+Dataset CV
